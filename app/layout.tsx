@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Royal History Museum of Oyo State",
   description: "Preserving the rich cultural heritage and royal legacy of Oyo State for future generations",
-    generator: 'v0.dev'
+   
 }
 
 export default function RootLayout({
